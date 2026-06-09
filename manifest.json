@@ -1,0 +1,18 @@
+{
+  "name": "Раскрой МДФ",
+  "short_name": "МДФ",
+  "description": "Калькулятор раскроя МДФ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
